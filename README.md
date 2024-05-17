@@ -140,6 +140,6 @@ Here are some ideas to get you started:
 </a>
 
 
-![Chirath Sirimanna's Graph](https://github-readme-activity-graph.vercel.app/graph?username=chirathsiri&custom_title=Chirath Sirimanna's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Chirath Sirimanna's Graph](https://github-readme-activity-graph.vercel.app/graph?username=chirathsiri&custom_title=Chirath%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
   
 </div>
