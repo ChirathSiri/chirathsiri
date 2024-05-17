@@ -57,20 +57,20 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ <a href="https://www.linkedin.com/in/chirath-sirimanna" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="chirath"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="chirath" />
  </a> -->
  <a href="https://twitter.com/chirathsirimanna" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/_alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ <a href="https://www.instagram.com/c_h_i_r_a_t_h___t__s" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="chirath" />
  </a> 
- <a href="https://facebook.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+ <a href="https://www.facebook.com/chirath.sirimanne" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="chirath"  />
   </a> 
 </p>
 <br />
@@ -93,6 +93,8 @@ Here are some ideas to get you started:
 <br/>
 
 ## Use To Code
+
+#Here are some of the technologies I've learned:
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
@@ -138,23 +140,6 @@ Here are some ideas to get you started:
 </a>
 
 
-![Chirath's Graph](https://github-readme-activity-graph.vercel.app/graph?username=chirathsiri&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
- Here are some of the technologies I've learned:
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <div style="animation: bounce 2s infinite;">
-    <img src="assets/images/C.png" alt="HTML5" width="100" height="100">
-  </div>
-  
-  <div style="animation: bounce 2s infinite 0.2s;">
-    <img src="assets/images/Java-Logo.png" alt="CSS3" width="100" height="100">
-  </div>
-  
-  <div style="animation: bounce 2s infinite 0.4s;">
-    <img src="assets/images/Tec.jpeg" alt="JavaScript" width="300" height="300">
-  </div>
+![Chirath Sirimanna's Graph](https://github-readme-activity-graph.vercel.app/graph?username=chirathsiri&custom_title=Chirath Sirimanna's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
   
 </div>
