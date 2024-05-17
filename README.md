@@ -41,20 +41,4 @@ Welcome to my project! Here are some of the technologies I've learned:
     <img src="assets/images/all.jpeg" alt="JavaScript" width="500" height="500">
   </div>
   
-  <!-- Add more technologies as needed -->
-  
 </div>
-
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-30px);
-  }
-  60% {
-    transform: translateY(-15px);
-  }
-}
-</style>
