@@ -34,7 +34,7 @@ Welcome to my project! Here are some of the technologies I've learned:
   </div>
   
   <div style="animation: bounce 2s infinite 0.2s;">
-    <img src="assets/images/css3.png" alt="CSS3" width="100" height="100">
+    <img src="assets/images/Java-Logo.png" alt="CSS3" width="100" height="100">
   </div>
   
   <div style="animation: bounce 2s infinite 0.4s;">
