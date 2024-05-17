@@ -63,7 +63,7 @@ Here are some ideas to get you started:
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
  </a> -->
- <a href="https://twitter.com/_alsiam" target="_blank">
+ <a href="https://twitter.com/chirathsirimanna" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/_alsiam" target="_blank">
@@ -121,13 +121,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/chirathsiri">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Chirath's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirathsiri&theme=radical&border=7F3FBF&background=0D1117" alt="Chirath's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/chirathsiri">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Chirath's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirathsiri&theme=radical" alt="Chirath's GitHub Contribution"/>
   </a>
 </p>
 
