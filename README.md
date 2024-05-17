@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-![snake gif](https://github.com/ChirathSiri/chirathsiri/blob/output/github-contribution-grid-snake.gif)
-
 # My Project
 
 Welcome to my project! Here are some of the technologies I've learned:
