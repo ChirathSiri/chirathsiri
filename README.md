@@ -30,7 +30,7 @@ Welcome to my project! Here are some of the technologies I've learned:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <div style="animation: bounce 2s infinite;">
-    <img src="assets/images/html5.png" alt="HTML5" width="100" height="100">
+    <img src="assets/images/all.png" alt="HTML5" width="100" height="100">
   </div>
   
   <div style="animation: bounce 2s infinite 0.2s;">
