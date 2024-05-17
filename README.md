@@ -38,7 +38,7 @@ Welcome to my project! Here are some of the technologies I've learned:
   </div>
   
   <div style="animation: bounce 2s infinite 0.4s;">
-    <img src="assets/images/javascript.png" alt="JavaScript" width="100" height="100">
+    <img src="assets/images/all.jpeg" alt="JavaScript" width="100" height="100">
   </div>
   
   <!-- Add more technologies as needed -->
