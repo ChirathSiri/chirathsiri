@@ -2,7 +2,6 @@
 
 # Welcome to My Repo!
 
-Welcome to my awesome project! This is a brief description of what the project is about.
 
 <!--
 **ChirathSiri/chirathsiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
