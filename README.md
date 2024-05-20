@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/chirathsiri">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirathsiri&theme=radical&border=7F3FBF&background=0D1117" alt="Chirath's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirathsiri&theme=radical&border=7F3FBF&background=0D1117" alt="Chirath's GitHub Streak"/>
   </a>
 </p>
 
