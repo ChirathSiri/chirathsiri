@@ -105,8 +105,18 @@ Here are some ideas to get you started:
 ![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&labelColor=black&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&labelColor=black&logo=codeigniter&logoColor=EF4223)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&labelColor=black&logo=r&logoColor=276DC3)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=512BD4)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&labelColor=black&logo=microsoft-azure&logoColor=0078D4)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2)
+
 
 <br/>
 
