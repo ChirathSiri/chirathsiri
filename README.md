@@ -1,6 +1,6 @@
 ### Hi there I'm Chirath Sirimanna! 👋
 
-# Welcome to My Repo !
+# Welcome to My Repo!
 
 <!--
 **ChirathSiri/chirathsiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
