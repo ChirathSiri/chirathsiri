@@ -81,8 +81,8 @@ Here are some ideas to get you started:
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: chirath.sirimanna@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/chirathsiri)<br/><br/>
- 🌱 I’m currently learning ...<br/><br/>
- ⚡ Fun fact: ...
+ 🌱 &emsp; I’m currently learning ...<br/><br/>
+ ⚡ &emsp; Fun fact: ...
 
 </p>
 
