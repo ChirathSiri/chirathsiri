@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/chirathsiri?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
